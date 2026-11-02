@@ -7,7 +7,7 @@ FDM 3D プリンタ向けの、パラメトリックなケース（スライド�
 
 ## 使い方
 
-公開版：<https://york-14.github.io/bamboo-2/>（`main` への push で GitHub Pages に自動デプロイ）
+公開版：<https://symbealab.github.io/bamboo-2/>（`main` への push で GitHub Pages に自動デプロイ）
 
 手元で動かす場合：
 
