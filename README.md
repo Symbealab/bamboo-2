@@ -60,3 +60,19 @@ STL は部品ごとに印刷する向き・位置（Z=0 に接地）で出力す
 - [x] ステップ 5：抜け止め（つぶしリブ・ストッパー・棚、すべてサポート不要の形）
 - [x] 追加：中板（高さ方向の仕切り。別部品の板を受けの段に載せる）、全部品の zip 保存、スマホ表示
 - [ ] ステップ 6：着脱式仕切りほか
+
+## ライセンス / License
+
+### コード / Code
+このリポジトリのコードは [PolyForm Noncommercial License 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0) で公開しています。
+個人の学習・研究・趣味などの**非商用の利用・改変・再配布は自由**です。**商用利用はできません。**
+
+The code in this repository is licensed under the PolyForm Noncommercial License 1.0.0.
+Noncommercial use, modification and redistribution are permitted. **Commercial use is not permitted.**
+
+### Symbea の作品 / Symbea artworks
+Symbea として公開・販売している作品（壁紙パック、SNS の投稿、グッズのデザインなど）の著作権は Symbealab に帰属します（All rights reserved）。
+
+### 商用利用のご相談 / Commercial licensing
+商用でのご利用を希望される場合は、Instagram [@symbealab](https://www.instagram.com/symbealab/) の DM でご相談ください。
+For commercial licensing, please contact [@symbealab](https://www.instagram.com/symbealab/) on Instagram.
